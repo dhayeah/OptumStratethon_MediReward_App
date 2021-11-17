@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".mainscreen"
+    android:background="@drawable/background_all">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome !"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:background="#77808080"
+        android:textSize="25sp"
+        android:textColor="#000000"
+        android:padding="20sp"
+        android:layout_marginBottom="54sp"
+        />
+
+    <Button
+        android:textAlignment="center"
+        android:textStyle=""
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:text="Daily Tick"
+        android:backgroundTint="#44000000"
+        android:layout_margin="30sp"
+        android:padding="5sp"
+        android:id="@+id/dailycheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:textAlignment="center"
+
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:text="Check your reward"
+        android:backgroundTint="#44000000"
+        android:layout_margin="30sp"
+        android:padding="5sp"
+        android:id="@+id/dailyreward"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
