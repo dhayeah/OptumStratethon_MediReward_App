@@ -1,22 +1,14 @@
-MediReward App
+# MediReward App
 
-MediReward is a mobile application developed for the Optum Stratethon to support patients in maintaining their medication schedules. By combining intuitive reminders, progress tracking, and a rewarding incentive system, MediReward promotes consistent medication adherence, enhancing patient health outcomes.
+**MediReward** is a mobile application developed for the Optum Stratethon to help patients adhere to their medication schedules. Through intuitive reminders, progress tracking, and a motivational reward system, MediReward promotes consistent medication adherence to improve health outcomes.
 
-About
+## About
+Medication non-adherence impacts patient health and increases healthcare costs. MediReward tackles this challenge with a user-friendly platform that encourages patients to follow their prescriptions. Features like timely reminders and engaging rewards make medication management simple and effective for users of all ages.
 
-Medication non-adherence is a significant challenge in healthcare, leading to adverse health effects and increased costs. MediReward addresses this by providing a user-friendly platform that encourages patients to follow their prescribed treatment plans. With features like timely reminders and motivational rewards, the app makes medication management engaging and accessible for users of all ages.
-
-Key Features
-
-Custom Medication Plans: Easily input and manage prescriptions with details such as medication name, dosage, and timing.
-
-Smart Reminders: Receive customizable push notifications to ensure timely medication intake.
-
-Incentive Program: Earn points or rewards for consistent adherence, redeemable for benefits like health-related perks or virtual badges.
-
-Adherence Insights: Track your medication history with visual reports and analytics.
-
-Accessible Design: Intuitive interface with accessibility options for diverse users.
-
-Data Privacy: Secure storage and handling of health data, compliant with relevant regulations (e.g., HIPAA, if applicable).
-
+## Features
+- **Medication Management**: Add and organize prescriptions with details like dosage, frequency, and timing.
+- **Smart Notifications**: Receive customizable reminders to take medications on time.
+- **Reward System**: Earn points or badges for adherence, redeemable for virtual or health-related incentives.
+- **Progress Tracking**: Monitor adherence with visual reports and analytics.
+- **Accessible Interface**: Designed for ease of use with accessibility features.
+- **Data Security**: Ensures privacy with encrypted storage and compliance with regulations (e.g., HIPAA, if applicable).
